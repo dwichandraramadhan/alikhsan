@@ -2,7 +2,7 @@
     "theme_color": "#a7fd6a",
     "background_color": "#fff",
     "display": "standalone",
-    "prefer_related_applications": False,
+    "prefer_related_applications": false,
     "start_url": "https://alikhsan.girimoyo.com/",
     "name": "Musholla Al-Ikhsan",
     "short_name": "Al-Ikhsan",
